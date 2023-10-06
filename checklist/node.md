@@ -1,0 +1,3 @@
+- uninstall snap (on ubuntu)
+- disable multipathd 
+- disable postfix server 
