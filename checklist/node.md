@@ -1,3 +1,6 @@
+- uninstall snap (on ubuntu)
+- disable multipathd 
+- disable postfix server 
 - cache images or packages for kubelet and kubeadm
 - create nodes and setup IP addresses (preferrably from a template) 
 - access to root user with ssh key
